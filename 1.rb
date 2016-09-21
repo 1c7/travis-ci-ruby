@@ -1,5 +1,5 @@
 def hello()
-  if
+  p 'world'
 end
 
 puts 'haha'
